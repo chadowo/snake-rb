@@ -23,4 +23,4 @@ $ rake
 
 ### Code
 
-[MIT License](/LICENSE)
+[MIT License](/LICENSE).
